@@ -1,32 +1,19 @@
 - 👋 Hi, I’m @mio256
-- 👀 I’m interested in ... Java
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 📫 How to reach me ... mio256.65536[a]gmail.com
 
-はじめまして、mio256です。
-電子回路とArduinoのプロです。
-Javaを勉強中です。
-FE/英検二級
+全国3位の電子回路・マイコン制御技術者です。
 
-「すべて」をカバーする真の情報技術者が目標
-人の暮らしを幸せに豊かにする「ものづくり」を
+ビリ→主席→全国強豪部→最強先輩の敗北→「その夢、俺が預かります。」→全国3位
 
-目標は、「すべてがわかる」真の情報技術者です。
-大半の大規模システムがどんどんブラックボックス化していき、
-自分の担当分野以外全く分からないという状況が多いという記事や声を聞きます。
-私は電子回路からAIまで幅広く守備範囲があります。
-システム全体を把握し、適切に組織を動かし、緊急時に最前線で対応する仕事がしたいなと思っています。
-おそらく、ベンチャーの情報部門担当などですね！
+最強のフルスタックエンジニアが目標〜電子回路からAIまで〜
 
-主な活動場所はTwitterで、「みんなに有益なツイート」を心がけています。
-エンジニアの方と多く関わっていきたいので、ぜひ絡んでください。
+人の暮らしを豊か・幸せにする「ものづくり」を
 
-Qiitaでは備忘録や一言、ポエムを投稿しています。
+得意な言語 C/Java/Python
 
-Gitはまだまだ扱いに慣れておらず、PrivateRepositoryしか作っていません。
+DjangoでWebアプリ開発中です。
 
-<!---
-mio256/mio256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一緒に日本を支える仲間を探しています。
