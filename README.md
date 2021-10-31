@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... mio256.65536[a]gmail.com
+- 📫 How to reach me ... mio256.65536(a)gmail.com
 
 全国3位の電子回路・マイコン制御技術者です。
 
