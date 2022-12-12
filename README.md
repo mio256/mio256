@@ -1,6 +1,6 @@
 # hello, world
 
-<p align="left">
+<p>
   <a href="http://twitter.com/mi0256">
     <img height="20" src="https://img.shields.io/twitter/follow/mi0256?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -23,3 +23,5 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
     </tr>
 </table>
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/mio256/mio256/master/img/snake.svg) 
