@@ -1,28 +1,46 @@
-# hello, world
+<h1 align="center">Hi 👋, I'm mio256</h1>
+<h3 align="center">Embedded / Backend</h3>
 
-<p>
-  <a href="http://twitter.com/mi0256">
-    <img height="20" src="https://img.shields.io/twitter/follow/mi0256?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="http://qiita.com/mio256">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/mio256/posts.svg" />
-  </a>
-  <//qiita.com/mio256">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/mio256/contributions.svg" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mio256" alt="mio256" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mi0256" target="blank"><img src="https://img.shields.io/twitter/follow/mi0256?logo=twitter&style=for-the-badge" alt="mi0256" /></a> </p>
+
+- 🔭 I’m currently looking for a job
+
+- 🌱 I’m currently learning **gqlgen, gin**
+
+- 👨‍💻 One of my projects are available at [eag.is/](https://eag.is/)
+
+- 📝 I regularly write articles on [zenn.dev](https://zenn.dev/mi0256)
+
+- 💬 Ask me about **electronic circuit**
+
+- 📫 How to reach me **[twitter](https://twitter.com/mi0256)**
+
+- 📄 Know about my experiences [wantedly](https://www.wantedly.com/id/mi0256)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mi0256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mi0256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mi0256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mi0256" height="30" width="40" /></a>
+<a href="https://fb.com/mi0256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mi0256" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mio256)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
 
-<table>
-    <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="80px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
-    </tr>
-</table>
+<h3 align="left">Learning:</h3>
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/mio256/mio256/master/img/snake.svg) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mio256&" alt="mio256" /></p>
