@@ -21,7 +21,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70px" margin-right="15px" margin-bottom="15px"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="60px" margin-right="15px" margin-bottom="15px"></td>
     </tr>
 </table>
 
