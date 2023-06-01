@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **gqlgen, gin**
 
-- 👨‍💻 One of my projects are available at [eag.is](https://eag.is/)
+- 👨‍💻 One of my projects are available at **[eag.is](https://eag.is/)**
 
-- 📝 I regularly write articles on [zenn.dev](https://zenn.dev/mi0256)
+- 📝 I regularly write articles on **[zenn.dev](https://zenn.dev/mi0256)**
 
 - 💬 Ask me about **electronic circuit**
 
 - 📫 How to reach me **[twitter](https://twitter.com/mi0256)**
 
-- 📄 Know about my experiences [wantedly](https://www.wantedly.com/id/mi0256)
+- 📄 Know about my experiences **[wantedly](https://www.wantedly.com/id/mi0256)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
