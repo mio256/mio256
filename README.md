@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **gqlgen, gin**
 
-- 👨‍💻 One of my projects are available at [eag.is/](https://eag.is/)
+- 👨‍💻 One of my projects are available at [eag.is](https://eag.is/)
 
 - 📝 I regularly write articles on [zenn.dev](https://zenn.dev/mi0256)
 
