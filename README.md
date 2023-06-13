@@ -45,3 +45,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mio256&" alt="mio256" /></p>
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/mio256/mio256/master/img/snake.svg)
