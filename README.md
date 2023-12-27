@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm mio256</h1>
 <h3 align="center">Embedded / Backend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mio256" alt="mio256" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mi0256" target="blank"><img src="https://img.shields.io/twitter/follow/mi0256?logo=twitter&style=for-the-badge" alt="mi0256" /></a> </p>
 
-- 🔭 I’m currently looking for a job
+- 🔭 I'm working at RENATUS ROBOTICS.
 
-- 🌱 I’m currently learning **gqlgen, gin**
+- 🌱 I’m currently learning **go**
 
 - 👨‍💻 One of my projects are available at **[eag.is](https://eag.is/)**
 
 - 📝 I regularly write articles on **[zenn.dev](https://zenn.dev/mi0256)**
 
-- 💬 Ask me about **electronic circuit**
+- 💬 Ask me about **electronic circuit, Arduino, Django**
 
 - 📫 How to reach me **[twitter](https://twitter.com/mi0256)**
 
@@ -35,15 +33,11 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" alt="java" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Learning:</h3>
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mio256&" alt="mio256" /></p>
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/mio256/mio256/master/img/snake.svg)
