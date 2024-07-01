@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mio256</h1>
-<h3 align="center">Embedded / Backend</h3>
+<h3 align="center">Embedded / Backend / Blockchain</h3>
 
 <p align="left"> <a href="https://twitter.com/mi0256" target="blank"><img src="https://img.shields.io/twitter/follow/mi0256?logo=twitter&style=for-the-badge" alt="mi0256" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 One of my projects are available at **[eag.is](https://eag.is/)**
 
-- 📝 I regularly write articles on **[zenn.dev](https://zenn.dev/mi0256)**
+- 📝 I regularly write articles on **[zenn.dev](https://zenn.dev/mi0256), [Qiita](https://qiita.com/mio256)**
 
 - 💬 Ask me about **ElectronicCircuit, Arduino, Django, Golang**
 
@@ -36,10 +36,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" alt="java" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://prev.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="rust" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Learning:</h3>
-<p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
