@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm mio256</h1>
-<h3 align="center">Embedded / Backend / Blockchain</h3>
+<h3 align="center">Embedded → Backend → Blockchain → VLM</h3>
 
 <p align="left"> <a href="https://twitter.com/mi0256" target="blank"><img src="https://img.shields.io/twitter/follow/mi0256?logo=twitter&style=for-the-badge" alt="mi0256" /></a> </p>
 
-- 🔭 I'm working at [RENATUS ROBOTICS](https://www.renatus-robotics.com/).
+- 🔭 I'm CTO of [Noahlogy Co., Ltd.](https://noahlogy.com/).
 
-- 🌱 I’m currently learning **golang**
-
-- 👨‍💻 One of my projects are available at **[eag.is](https://eag.is/)**
+- 🌱 I’m currently learning **multi tenant SaaS**
 
 - 📝 I regularly write articles on **[zenn.dev](https://zenn.dev/mi0256), [Qiita](https://qiita.com/mio256)**
 
-- 💬 Ask me about **ElectronicCircuit, Arduino, Django, Golang**
+- 💬 Ask me about **Golang**
 
-- 📫 How to reach me **[twitter](https://twitter.com/mi0256)**
-
-- 📄 Know about my experiences **[wantedly](https://www.wantedly.com/id/mi0256)**
+- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/mi0256/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
