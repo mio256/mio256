@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mio256</h1>
-<h3 align="center">Embedded → Backend → Blockchain → VLM</h3>
+<h3 align="center">Embedded → Backend → Blockchain → AI</h3>
 
 <p align="left"> <a href="https://twitter.com/mi0256" target="blank"><img src="https://img.shields.io/twitter/follow/mi0256?logo=twitter&style=for-the-badge" alt="mi0256" /></a> </p>
 
